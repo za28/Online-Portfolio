@@ -1,7 +1,8 @@
 # Zahra's Online Portfolio
 
 Welcome to my online portfolio! This is where you can get to know me better, explore my journey, and discover some of my projects and skills.
-![image](https://github.com/za28/Online-Portfolio/assets/114661472/4fba99fc-05e7-4a12-b3c0-b3f7965910e4)
+![image](https://github.com/za28/Online-Portfolio/assets/114661472/0a393c84-f2c2-491b-8c0f-65468bd10c05)
+
 **Link to my Portfolio: https://portfolio-zahra.netlify.app/**
 
 ## Navigation
