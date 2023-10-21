@@ -80,6 +80,13 @@ I have experience with various technologies and tools, including but not limited
 - 2019: Internship at Synechron
 
 ### Contact Me
-I'm always open to new opportunities and collaborations. If you'd like to get in touch, please feel free to contact me:
+I'm always open to new opportunities and collaborations. If you'd like to get in touch, please feel free to contact me.
+
+## References
+
+I utilized the following video resource as a reference during the development of this project:
+- [YouTube Video]([https://www.youtube.com/watch?v=3HNyXCPDQ7Q](https://www.youtube.com/watch?v=3HNyXCPDQ7Q))
+
+This video provided valuable insights and guidance that contributed to the success of this project.
 
 Thank you for visiting my portfolio and learning more about me and my work!
